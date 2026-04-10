@@ -21,6 +21,8 @@ lib-cov
 .terraform/
 *.tfstate
 *.tfstate.*
+
+provider.tf
 crash.log
 override.tf
 override.tf.json
